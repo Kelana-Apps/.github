@@ -9,12 +9,12 @@
 
 ## **<div align="center">🎯 Kelana Goals</div>**
 
-<div align="center">
+
 - ⁠Personalized Itinerary
 - Optimized Travel Routes
 - ⁠Budget-based Itinerary Planning
 - Best Time to Visit Recommendations
-</div>
+
 
 ## **<div align="center">👷‍♂️ Kelana Team </div>**
 
