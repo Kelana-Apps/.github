@@ -1,5 +1,5 @@
 # <div align="center">Kelana</div>
-## <div align="center">Traveling without making your wallet suffer</div>
+## <div align="center">Traveling Without Making Your Wallet Suffer</div>
 
 ![Logo Kelana](https://github.com/user-attachments/assets/9e38a655-e86e-40e2-bd26-6e4463b555ad) 
 
