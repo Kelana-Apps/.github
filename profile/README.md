@@ -35,12 +35,19 @@
 </div>
 
 ## <div align="center">Machine Learning</div>
+
+| **Nama**                     | **Bangkit ID**  | **Role**          | **LinkedIn** |
+|------------------------------|-----------------|-------------------|-----------|
 | Danika Najwa Ardelia         | M296B4KX0996    | ML Engineer       | linkedin  |
 | Nadin Isna Monica              | M296B4KX3207    | ML Engineer       | linkedin |
 | Najma Choirun Nisa         | M296B4KX3229     | ML Engineer       | linkedin|
 ## <div align="center">Cloud Computing</div>
+| **Nama**                     | **Bangkit ID**  | **Role**          | **LinkedIn** |
+|------------------------------|-----------------|-------------------|-----------|
 | Andrya Muhammad Naufal            | C004B4KY0532     | Cloud Engineer    | linkedin |
 | Kevin Joy Nasserino                 | C296B4KY2184    | Cloud Engineer    | linkedin |
 ## <div align="center">Mobile Development</div>
+| **Nama**                     | **Bangkit ID**  | **Role**          | **LinkedIn** |
+|------------------------------|-----------------|-------------------|-----------|
 | Ahmad Faza Fahresi       | A123B4KY0203    | Mobile Developer  | linkedin |
 | Dewi Oktaviany      | A004B4KX1081    | Mobile Developer  | linkedin |
