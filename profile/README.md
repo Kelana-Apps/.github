@@ -60,8 +60,10 @@
 ## <div align="center">Mobile Development</div>
 
 <div align="center">
+  
 | **Nama**                     | **Bangkit ID**  | **Role**          | **LinkedIn** |
 |------------------------------|-----------------|-------------------|-----------|
 | Ahmad Faza Fahresi       | A123B4KY0203    | Mobile Developer  | linkedin |
 | Dewi Oktaviany      | A004B4KX1081    | Mobile Developer  | linkedin |
+
 </div>
