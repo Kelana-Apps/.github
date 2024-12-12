@@ -1,7 +1,9 @@
 # <div align="center">Kelana</div>
 ## <div align="center">Traveling Without Making Your Wallet Suffer</div>
 
-![Logo Kelana](https://github.com/user-attachments/assets/9e38a655-e86e-40e2-bd26-6e4463b555ad) 
+![Logo Kelana](https://github.com/user-attachments/assets/9e38a655-e86e-40e2-bd26-6e4463b555ad)
+
+## <div align="center">About Our Apps</div>
 
 <div align="center">Indonesia is a country with an extraordinary wealth of tourist destinations and culture. Based on BPS data, the tourism sector contributed 3.8% to Indonesia's GDP in 2023, and domestic tourism continues to grow. However, 67% of tourists face challenges when planning their trips, such as difficulty obtaining accurate information, limited time for research, and trouble arranging travel routes. Consequently, trips often fail to reach their full potential.</div>
 
@@ -31,3 +33,14 @@
 | Dewi Oktaviany      | A004B4KX1081    | Mobile Developer  |
 
 </div>
+
+## <div align="center">Machine Learning</div>
+| Danika Najwa Ardelia         | M296B4KX0996    | ML Engineer       | linkedin  |
+| Nadin Isna Monica              | M296B4KX3207    | ML Engineer       | linkedin |
+| Najma Choirun Nisa         | M296B4KX3229     | ML Engineer       | linkedin|
+## <div align="center">Cloud Computing</div>
+| Andrya Muhammad Naufal            | C004B4KY0532     | Cloud Engineer    | linkedin |
+| Kevin Joy Nasserino                 | C296B4KY2184    | Cloud Engineer    | linkedin |
+## <div align="center">Mobile Development</div>
+| Ahmad Faza Fahresi       | A123B4KY0203    | Mobile Developer  | linkedin |
+| Dewi Oktaviany      | A004B4KX1081    | Mobile Developer  | linkedin |
