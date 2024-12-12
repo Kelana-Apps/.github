@@ -1,4 +1,4 @@
-# Kelana 
+# <div align="center">Kelana</div>
 ## <div align="center">Traveling without making your wallet suffer</div>
 
 ![Logo Kelana](https://github.com/user-attachments/assets/9e38a655-e86e-40e2-bd26-6e4463b555ad) 
@@ -10,12 +10,10 @@
 ## **<div align="center">🎯 Kelana Goals</div>**
 
 <div align="center">
-
-•⁠  ⁠Personalized Itinerary
-•⁠  ⁠Optimized Travel Routes
-•⁠  ⁠Budget-based Itinerary Planning
-•⁠  ⁠Best Time to Visit Recommendations
-
+- ⁠Personalized Itinerary
+- Optimized Travel Routes
+- ⁠Budget-based Itinerary Planning
+- Best Time to Visit Recommendations
 </div>
 
 ## **<div align="center">👷‍♂️ Kelana Team </div>**
